@@ -5,15 +5,16 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 
 esercizio 5 
- - domani è il compleanno di Silvia
- - Mi piacerebbe sorprenderla, so che le piaceva  tanto quella lampada  
- - ? stabilire budget 
- - c'è un problema: la consegna non prevede Prime 
- - soluzione: non arriva in tempo
- - ? che budget ho per la penna stilografica? 
- - se il budget  me lo peremette, prendo una stilografica 
- - cerco una stilografica su Amazon che abbia prime
-  
- - : ALTRIMENTI se il budget non me lo permette, prendo un buon libro classico
- - vado su amazon, sezione libri 
- - grandi classici e ne scelgo uno che abbia prime
+domani è il compleanno di silvia
+- Verifico il mio budget
+- Apro Amazon
+- Cerco la lampada su Amazon
+- Verifico che la lampada sia disponibile con spedizione Prime
+- ? se ha Prime
+- la compro
+- : ALTRIMENTI cerco una penna stilografica
+- sfoglio il catalogo di amazon cercando le penne stilografiche
+- ? se il buget me lo permette 
+- compro la penna stilografica
+- : ALTRIMENTI se il budget non me lo permette cerco un buon libro classico
+- vado su amazon, sezione libri grandi classici e ne scelgo uno che abbia prime
